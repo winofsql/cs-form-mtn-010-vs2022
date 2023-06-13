@@ -20,3 +20,5 @@ private class ComboData
     }
 }
 ```
+
+![image](https://github.com/winofsql/cs-form-mtn-010-vs2022/assets/1501327/d4a15d5b-43cb-49bd-87d5-1f64eaec199b)
