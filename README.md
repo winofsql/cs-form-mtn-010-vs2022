@@ -29,4 +29,5 @@ private class ComboData
 
 ### 入れ子機能( Web ) を使用した機能のソース分割( partial )
 
-![245340963-e68c31c7-8b00-4e8c-9f7f-75ed0a0b058e](https://github.com/winofsql/cs-form-mtn-010-vs2022/assets/1501327/19a28a55-9e9c-4b58-ba84-95001e6ca982)
+![image](https://github.com/winofsql/cs-form-mtn-010-vs2022/assets/1501327/171c8266-a28f-4dbd-a7b9-ef208e0615c6)
+
