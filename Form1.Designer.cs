@@ -229,7 +229,6 @@
             // 
             // キャンセル
             // 
-            キャンセル.CausesValidation = false;
             キャンセル.Location = new Point(405, 234);
             キャンセル.Margin = new Padding(4);
             キャンセル.Name = "キャンセル";
