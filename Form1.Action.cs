@@ -124,7 +124,7 @@ namespace cs_form_mtn_010_vs2022
 	,'{this.氏名.Text}'
 	,{((ComboData)this.性別.SelectedItem).Data}
 	,{this.給与.Text}
-	,'{this.生年月日.Value}'
+	,'{this.生年月日.Value:yyyy/MM/dd}'
 )";
 
             myCommand.CommandText = strQuery;
